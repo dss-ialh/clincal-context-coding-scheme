@@ -6,4 +6,4 @@ Expert determination method for reducing complexity of transactional records ext
 
 [board1]:/libs/materials/Board1.jpg
 [board2]:/libs/materials/Board2.png
-[pdf]:idpln-2018-banff-3-handout-reduced-size.pdf
+[pdf]:libs/materials/idpln-2018-banff-3-handout-reduced-size.pdf
